@@ -1,3 +1,9 @@
+HEAD
+
 This is my first test in github.
+
+test merge 
+
+let's gogogogo
 
 Made by Ryul.
