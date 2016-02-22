@@ -1,7 +1,15 @@
+HEAD
+
 This is my first test in github.
 
+<<<<<<< HEAD
 Then,
 
 It's my second style.
+=======
+test merge 
+
+let's gogogogo
+>>>>>>> 1697cc1... test_ryul4
 
 Made by Ryul.
