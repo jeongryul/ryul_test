@@ -1,3 +1,7 @@
 This is my first test in github.
 
+Then,
+
+It's my second style.
+
 Made by Ryul.
